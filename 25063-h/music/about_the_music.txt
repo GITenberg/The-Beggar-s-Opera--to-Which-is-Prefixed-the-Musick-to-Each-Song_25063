@@ -1,0 +1,37 @@
+_About the Music_
+
+The following information is also given at the end of the plain-text and
+html versions of the play.
+
+The music in the printed book appears to be a hand-written copy of the
+1765 original, retaining or adding assorted minor errors. In particular,
+the use of double bar lines or repeats seems to be almost entirely
+arbitrary. In the PDF and MIDI files, obvious errors such as missing
+dots after notes have been corrected, and a few ties have been added.
+Repeats are used only when required by the lyrics as printed.
+
+All music files, including the PDF images, are in the "Music" directory.
+In addition to individual Airs, there are PDF files containing the
+collected songs for each scene that has more than one song. Air LXVIII
+(the final song) has been omitted because it takes up a complete page by
+itself.
+
+
+_Changing the Tempo_
+
+If you want to change the tempo of a MIDI file, do this:
+
+--Install the lilypond program (free from lilypond.org)
+
+--Open the file you want to edit (named in the form air_N.ly using the
+same Roman numerals as in the text) and scroll down to the bottom. The
+"make-moment" line works just like a metronome setting. Leave the second
+number alone--usually a 4 for quarter-note--and make the first number
+larger or smaller.
+
+--Select "Run" or "Typeset File" from the Compile menu. This will create
+three files in the same location as the original .ly file: an updated
+MIDI, a new PDF, and a Postscript (.ps) file. You may keep the
+Postscript file or delete it; they are automatically generated, but were
+omitted from this Project Gutenberg text because they are very large and
+are easy to make on your own computer.
