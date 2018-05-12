@@ -1,0 +1,34 @@
+_repo: The-Beggar-s-Opera--to-Which-is-Prefixed-the-Musick-to-Each-Song_25063
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25063-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gay, John
+    birthdate: 1685
+    deathdate: 1732
+    gutenberg_agent_id: '905'
+    url: http://www.gutenberg.org/2009/agents/905
+    wikipedia: http://en.wikipedia.org/wiki/John_Gay
+  editor:
+    agent_name: Fraser, Claud Lovat
+    birthdate: 1890
+    deathdate: 1921
+    gutenberg_agent_id: '26493'
+    url: http://www.gutenberg.org/2009/agents/26493
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2008-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Ballad operas -- Librettos'
+title: The Beggar's Opera; to Which is Prefixed the Musick to Each Song
+url: http://www.gutenberg.org/ebooks/25063
