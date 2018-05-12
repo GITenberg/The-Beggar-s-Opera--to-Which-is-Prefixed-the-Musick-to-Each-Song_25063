@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '26493'
     url: http://www.gutenberg.org/2009/agents/26493
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25063#The-Beggar-s-Opera--to-Which-is-Prefixed-the-Musick-to-Each-Song
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2008-04-13'
 gutenberg_type: Text
